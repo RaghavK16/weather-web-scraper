@@ -1,6 +1,6 @@
 # weather-web-scraper
 
-![alt text](https://github.com/raghavk16/weather-web-scraper/blob/master/scraper_ss.png?raw=true)
+![alt text](https://github.com/raghavk16/weather-web-scraper/blob/master/scraper_ss_1.png?raw=true)
 
 A web scraper I made using Python libraries and code to extract the web-page content and display in a .csv file format, to know the weather of the week.
 # Requirements
